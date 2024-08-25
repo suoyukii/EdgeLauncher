@@ -6,10 +6,11 @@
         <LangVersion>latestmajor</LangVersion>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <ApplicationIcon>icon.ico</ApplicationIcon>
         <AssemblyName>edgelauncher</AssemblyName>
         <Authors>suoyukii</Authors>
         <Copyright>Copyright © 2024 suoyukii</Copyright>
+        <PackageProjectUrl>https://github.com/suoyukii/EdgeLauncher</PackageProjectUrl>
+        <PackageLicenseUrl>https://github.com/suoyukii/EdgeLauncher?tab=MIT-1-ov-file</PackageLicenseUrl>
     </PropertyGroup>
 
     <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
