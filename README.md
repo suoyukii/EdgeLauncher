@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
-    <img src="http://img.shields.io/badge/License-MIT-1e90ff.svg"/>
+    <img src="http://img.shields.io/badge/License-MIT-1e90ff?style=for-the-badge"/>
   </a>
   <a href="https://dotnet.microsoft.com">
-    <img src="http://img.shields.io/badge/.Net-9.0-1e90ff.svg"/>
+    <img src="http://img.shields.io/badge/.Net-9.0-1e90ff?style=for-the-badge"/>
   </a>
 </p>
 
