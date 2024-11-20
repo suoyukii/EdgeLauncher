@@ -27,3 +27,7 @@ EdgeLauncher 是一款浏览器启动器，可关闭 Edge 浏览器的后台进�
 ```shell
 edgelauncher [url]
 ```
+
+## ✨ 图标
+
+- <a target="_blank" href="https://icons8.com/icon/Bt4P6dmizbSO/microsoft-edge">Edge</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>

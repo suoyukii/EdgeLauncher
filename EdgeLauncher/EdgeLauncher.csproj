@@ -5,6 +5,7 @@
         <TargetFramework>net9.0</TargetFramework>
         <LangVersion>latestmajor</LangVersion>
         <ImplicitUsings>enable</ImplicitUsings>
+        <ApplicationIcon>icon.ico</ApplicationIcon>
         <PublishAot>true</PublishAot>
         <AssemblyName>edgelauncher</AssemblyName>
         <Authors>suoyukii</Authors>

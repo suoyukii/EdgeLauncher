@@ -34,3 +34,7 @@ When you open EdgeLauncher, it starts the edge browser, and after 30 seconds of 
 ```shell
 edgelauncher [url]
 ```
+
+## ✨ Icon
+
+- <a target="_blank" href="https://icons8.com/icon/Bt4P6dmizbSO/microsoft-edge">Edge</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
