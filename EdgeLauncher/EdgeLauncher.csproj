@@ -2,10 +2,10 @@
 
     <PropertyGroup>
         <OutputType>WinExe</OutputType>
-        <TargetFramework>net8.0</TargetFramework>
+        <TargetFramework>net9.0</TargetFramework>
         <LangVersion>latestmajor</LangVersion>
         <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nullable>
+        <PublishAot>true</PublishAot>
         <AssemblyName>edgelauncher</AssemblyName>
         <Authors>suoyukii</Authors>
         <Copyright>Copyright © 2024 suoyukii</Copyright>
